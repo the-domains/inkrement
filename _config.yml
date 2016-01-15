@@ -1,6 +1,6 @@
 name: inkrement
 favicon: null
-layout_spectrum: 0.2702745799906552
+layout_spectrum: 0.25454
 typography_spectrum: 0.5962708969600499
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6750415968708694
+    - '#010300'
+    - '#e2f6ca'
+    - '#17579a'
+    - '#2cc1c1'
+    - '#8e8259'
+  brandStrength: 0.5625
   lightness: 0.05466053611598909
-  saturation: 0.9352598302066326
+  saturation: 0.8125
   rhythmicContrast: 0.9656356167979538
 purpose: []
